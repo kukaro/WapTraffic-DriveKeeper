@@ -8,4 +8,5 @@
 * [Conference 18.06.27](conference-18.06.27.md)
 * [Conference 18.07.03](conference-18.07.03.md)
 * [Notice 18.08.01](notice-18.08.01.md)
+* [Conference 18.08.06](conference-18.08.06.md)
 
